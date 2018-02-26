@@ -47,4 +47,4 @@ lwp: 26757 -> 0x6885
 
 ```
 
-![usage](topthreadcpu/images/lwp_check-usage.png)
+![usage](images/lwp_check-usage.png)
