@@ -1,3 +1,5 @@
 # Usage:
 
-## ./lwp_check.sh | less -R
+```
+./lwp_check.sh | less -R
+```
